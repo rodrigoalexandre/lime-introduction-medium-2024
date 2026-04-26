@@ -16,7 +16,7 @@ occupancy-detection.ipynb (Jupyter notebook para treinamento do modelo e anális
 https://medium.com/@rodrigoalexandre1981/uma-introdu%C3%A7%C3%A3o-%C3%A0-explainable-ai-xai-utilizando-lime-cbc8bde4bc8a
 <br><br>
 ## ⚙️ **RESOURCES**
-O dataset utilizando neste artigo está publicamente disponível em: https://archive.ics.uci.edu/dataset/357/occupancy+detection
+O dataset utilizado neste artigo está publicamente disponível em: https://archive.ics.uci.edu/dataset/357/occupancy+detection
 <br><br>
 ## 🛡 **LICENSE**
 Este projeto está disponível sob a **MIT license**. Consulte o arquivo LICENSE para obter mais detalhes.
