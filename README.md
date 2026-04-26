@@ -4,9 +4,9 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/rodrigoalexandre/lime-introduction-medium-2024)
 ## 📝 **DESCRIPTION**
 
-Este repositório contém o projeto criado para o hands-on apresentado no artigo **"Uma introdução à Explainable AI (XAI) utilizando LIME"** publicado no blog Medium em dezembro de 2024..
+Este repositório contém o projeto criado para o hands-on apresentado no artigo **"Uma introdução à Explainable AI (XAI) utilizando LIME"** publicado no blog Medium em dezembro de 2024.
 
-O artigo apresenta uma introdução à Explainable AI utilizando a técnica **Local Interpretable Model-agnostic Explanations (LIME)** e uma demonstração do uso prático do LIME para explicar as predições de um modelo de Machine Learning..
+O artigo apresenta uma introdução à Explainable AI utilizando a técnica **Local Interpretable Model-agnostic Explanations (LIME)** e uma demonstração do uso prático do LIME para explicar as predições de um modelo de Machine Learning.
 <br><br>
 ## 📂 **PROJECT STRUCTURE**
 
