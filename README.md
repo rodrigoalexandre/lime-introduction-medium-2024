@@ -18,6 +18,3 @@ https://medium.com/@rodrigoalexandre1981/uma-introdu%C3%A7%C3%A3o-%C3%A0-explain
 ## ⚙️ **RECURSOS**
 O dataset utilizado neste artigo está publicamente disponível em: https://archive.ics.uci.edu/dataset/357/occupancy+detection
 <br><br>
-## 🛡 **LICENÇA**
-Este projeto está disponível sob a **MIT license**. Consulte o arquivo LICENSE para obter mais detalhes.
-<br><br>
