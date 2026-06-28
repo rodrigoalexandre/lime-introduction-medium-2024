@@ -10,7 +10,7 @@ O artigo apresenta uma introdução à Explainable AI utilizando a técnica **Lo
 <br><br>
 ## 📂 **ESTRUTURA DO PROJETO**
 
-occupancy-detection.ipynb (Jupyter notebook para treinamento do modelo e análise de predições)
+occupancy-detection.ipynb (jupyter notebook para treinamento do modelo e análise de predições)
 <br><br>
 ## 🔗 **LINK PARA O ARTIGO**
 https://medium.com/@rodrigoalexandre1981/uma-introdu%C3%A7%C3%A3o-%C3%A0-explainable-ai-xai-utilizando-lime-cbc8bde4bc8a
